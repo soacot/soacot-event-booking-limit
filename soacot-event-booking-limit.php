@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       SOACOT Event Booking Limit
  * Description:       Limits the number of Events Manager events that a person without a Paid Memberships Pro membership can book.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 6.5
  * Requires PHP:      7.4
  * Requires Plugins:  events-manager, events-manager-pro, paid-memberships-pro

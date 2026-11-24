@@ -1,13 +1,17 @@
 # SOACOT Event Booking Limit
 
-A WordPress plugin that limits the number of [Events Manager](https://wordpress.org/plugins/events-manager/) events that a non-member can book. A member is a user with an active [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro/) membership level.
+A WordPress plugin that limits the number of events that a non-member can book with [Events Manager Pro](https://eventsmanagerpro.com/). A member is a user with an active [Paid Memberships Pro](https://www.paidmembershipspro.com/) membership level.
 
 ## Requirements
 
 - WordPress 6.5 or later
 - PHP 7.4 or later
-- Events Manager
+- Events Manager and Events Manager Pro
 - Paid Memberships Pro
+
+WordPress does not let you activate this plugin until the required plugins are active. It looks for the plugin folders `events-manager`, `events-manager-pro`, and `paid-memberships-pro`.
+
+WordPress shows no install link for a required plugin that is not on WordPress.org. Install and activate the required plugins first.
 
 ## What it does
 
